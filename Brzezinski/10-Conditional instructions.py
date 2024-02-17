@@ -16,4 +16,6 @@ elif light == 'pomarańczowe':
     print("Zwolnij!")
 elif light == 'czerwone':
     print("Stój")
+else:
+    print("Niewłaściwy kolor !")
 
