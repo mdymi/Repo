@@ -17,7 +17,7 @@
 
 # Third example:
 a = 4
-print(a % 2 == 0) #Checks if a number is divisible by 2 or is even. This division results in no remainder
+print(a % 2 == 0) #Checks if a number is divisible by 2 or is odd. This division results in no remainder
 print(not a % 2 == 0)  # NOT
 
 user_logged_in = True
