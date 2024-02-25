@@ -11,4 +11,6 @@ c = '2'
 
 print(str(a) + b)   #STR - string.
 print(a + int(c))   #INT - integer
-
+print(type(a))
+print(type(b))
+print(type(c))
