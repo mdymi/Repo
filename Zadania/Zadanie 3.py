@@ -1,3 +1,4 @@
+# Napisz program który spyta użytkownika o wynik na egzaminie (od 0 do 100) i wyświetli odpowiednią ocenę.
 wynik_egzaminu = int(input("Jaki był wynik Twojego egzaminu ? "))
 #print(type(wynik_egzaminu))
 if wynik_egzaminu in range(90,100):
