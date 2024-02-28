@@ -16,7 +16,7 @@
 # print(a > 10 or (b > 0 and a > b))
 
 # Third example:
-a = 4
+a = 4 # % modulo operator means diffrent from a % 2 == 0 a is divided by 2 with no remainder
 print(a % 2 == 0) #Checks if a number is divisible by 2 or is odd. This division results in no remainder
 print(not a % 2 == 0)  # NOT
 
